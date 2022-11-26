@@ -5,4 +5,5 @@ The project currently only implements the back-end console.
 
 Authors:
 Abidemi Oluwaseyi <abidemiseyi164real@gmail.com>
+
 Oluwajuwon Oladiti <oladitioluwajuwon165@gmail.com>
